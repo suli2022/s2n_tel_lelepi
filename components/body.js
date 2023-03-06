@@ -1,3 +1,12 @@
+{/*
+* File: body.js
+* Author: Erős István
+* Copyright: 2023, Erős István
+* Group: Szoft II N
+* Date: 2023-03-06
+* Github: https://github.com/erosjanos/
+* Licenc: GNU GPL
+*/}
 import React from "react";
 import { Button, StyleSheet, Text, TextInput, View } from "react-native";
 
